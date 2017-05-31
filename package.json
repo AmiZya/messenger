@@ -1,0 +1,21 @@
+{
+  "name": "messenger-js",
+  "version": "1.0.0",
+  "description": "Slack alternative",
+  "engines": {
+    "node": "7.10.0"
+  },
+  "main": "debug.js",
+  "scripts": {
+    "start": "node debug.js"
+  },
+  "dependencies": {
+    "totaljs": "2.5.0"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
+}
