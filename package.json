@@ -7,7 +7,7 @@
   },
   "main": "debug.js",
   "scripts": {
-    "start": "node debug.js"
+    "start": "node release.js"
   },
   "dependencies": {
     "total.js": "2.5.0"
