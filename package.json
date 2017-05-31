@@ -10,7 +10,7 @@
     "start": "node debug.js"
   },
   "dependencies": {
-    "totaljs": "2.5.0"
+    "total.js": "2.5.0"
   },
   "keywords": [
     "node",
